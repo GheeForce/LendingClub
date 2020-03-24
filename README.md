@@ -11,7 +11,8 @@ The goal is to perform some exploratory analyses on the daya and then build a mo
 #### 2.0 Exploratory Data Analysis
 
 #### 3.0 Data Pre-Processing
-
+###### 3.1 Missing Data
+###### 3.2 Categorical and Dummy Variables
 #### 4.0 Model Building
 ###### 4.1 Train Test Split
 ###### 4.2 Feature Normalization
